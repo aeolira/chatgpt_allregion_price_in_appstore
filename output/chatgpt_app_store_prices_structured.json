@@ -1,0 +1,1586 @@
+[
+    {
+        "country_code": "al",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "dz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "af",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ad",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "ao",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ag",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ar",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "am",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "au",
+        "currency": "AUD",
+        "price_detail": {
+            "plus_monthly": 29.99,
+            "pro_monthly": 300.0,
+            "plus_yearly": 300.0
+        }
+    },
+    {
+        "country_code": "at",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "az",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "bs",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "bh",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "bd",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "bb",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "be",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "bz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "bj",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "bt",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "bo",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ba",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "bw",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "br",
+        "currency": "BRL",
+        "price_detail": {
+            "plus_monthly": 9990.0,
+            "pro_monthly": 99990.0,
+            "plus_yearly": 99990.0
+        }
+    },
+    {
+        "country_code": "bn",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "bg",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 3999.0,
+            "pro_monthly": 39999.0,
+            "plus_yearly": 39999.0
+        }
+    },
+    {
+        "country_code": "bf",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "bi",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "cv",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "kh",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "cm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 25000.0,
+            "plus_yearly": 25000.0
+        }
+    },
+    {
+        "country_code": "ca",
+        "currency": "CAD",
+        "price_detail": {
+            "plus_monthly": 24.99,
+            "pro_monthly": 249.0,
+            "plus_yearly": 249.0
+        }
+    },
+    {
+        "country_code": "cf",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "td",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "cl",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 199.99,
+            "plus_yearly": 229.99
+        }
+    },
+    {
+        "country_code": "co",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 99.9,
+            "pro_monthly": 999.9,
+            "plus_yearly": 999.9
+        }
+    },
+    {
+        "country_code": "km",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "cg",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "cd",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "cr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ci",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 1999.0,
+            "pro_monthly": 25000.0,
+            "plus_yearly": 25000.0
+        }
+    },
+    {
+        "country_code": "hr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "cy",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "cz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 49900.0,
+            "pro_monthly": 4.0,
+            "plus_yearly": 4.0
+        }
+    },
+    {
+        "country_code": "dk",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 17900.0,
+            "pro_monthly": 1.8,
+            "plus_yearly": 1.8
+        }
+    },
+    {
+        "country_code": "dj",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "dm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "do",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ec",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "eg",
+        "currency": "EGP",
+        "price_detail": {
+            "plus_monthly": 599.99,
+            "pro_monthly": 9999.99,
+            "plus_yearly": 9999.99
+        }
+    },
+    {
+        "country_code": "sv",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "gq",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "er",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "ee",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "sz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "et",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "fj",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "fi",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "fr",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "ga",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "gm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ge",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "de",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "gh",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "gr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "gd",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "gt",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "gn",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "gw",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "gy",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ht",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "va",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "hn",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "hu",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 8990.0,
+            "pro_monthly": 89990.0,
+            "plus_yearly": 89990.0
+        }
+    },
+    {
+        "country_code": "is",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "in",
+        "currency": "INR",
+        "price_detail": {
+            "plus_monthly": 1999.0,
+            "pro_monthly": 19900.0,
+            "plus_yearly": 19900.0
+        }
+    },
+    {
+        "country_code": "id",
+        "currency": "IDR",
+        "price_detail": {
+            "plus_monthly": 349.0,
+            "pro_monthly": 3499.0,
+            "plus_yearly": 3499.0
+        }
+    },
+    {
+        "country_code": "iq",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ie",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "il",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 69.9,
+            "pro_monthly": 699.9,
+            "plus_yearly": 699.9
+        }
+    },
+    {
+        "country_code": "it",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "jm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "jp",
+        "currency": "JPY",
+        "price_detail": {
+            "plus_monthly": 3000,
+            "pro_monthly": 30000,
+            "plus_yearly": 30000
+        }
+    },
+    {
+        "country_code": "jo",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "kz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 9990.0,
+            "pro_monthly": 99990.0,
+            "plus_yearly": 99990.0
+        }
+    },
+    {
+        "country_code": "ke",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "ki",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "kw",
+        "currency": "KWD",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "kg",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "la",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "lv",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "lb",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ls",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "lr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ly",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "li",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "lt",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "lu",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "mg",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "mw",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "my",
+        "currency": "MYR",
+        "price_detail": {
+            "plus_monthly": 99.9,
+            "pro_monthly": 999.9,
+            "plus_yearly": 999.9
+        }
+    },
+    {
+        "country_code": "mv",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ml",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "mt",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "mh",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "mr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "mu",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "mx",
+        "currency": "MXN",
+        "price_detail": {
+            "plus_monthly": 399.0,
+            "pro_monthly": 3999.0,
+            "plus_yearly": 3999.0
+        }
+    },
+    {
+        "country_code": "fm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 200.0,
+            "pro_monthly": 200.0,
+            "plus_yearly": 19.99
+        }
+    },
+    {
+        "country_code": "md",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "mc",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "mn",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "me",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 1999.0,
+            "pro_monthly": 20000.0,
+            "plus_yearly": 20000.0
+        }
+    },
+    {
+        "country_code": "ma",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "mz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "mm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "na",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "nr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "np",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "nl",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "nz",
+        "currency": "NZD",
+        "price_detail": {
+            "plus_monthly": 39.99,
+            "pro_monthly": 400.0,
+            "plus_yearly": 400.0
+        }
+    },
+    {
+        "country_code": "ni",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ne",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ng",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 9900.0,
+            "pro_monthly": 299900.0,
+            "plus_yearly": 299900.0
+        }
+    },
+    {
+        "country_code": "mk",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "no",
+        "currency": "NOK",
+        "price_detail": {
+            "plus_monthly": 24900.0,
+            "pro_monthly": 2.49,
+            "plus_yearly": 2.49
+        }
+    },
+    {
+        "country_code": "om",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "pk",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 4900.0,
+            "pro_monthly": 49900.0,
+            "plus_yearly": 49900.0
+        }
+    },
+    {
+        "country_code": "pw",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ps",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "pa",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "pg",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "py",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "pe",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 79.9,
+            "pro_monthly": 799.9,
+            "plus_yearly": 899.9
+        }
+    },
+    {
+        "country_code": "ph",
+        "currency": "PHP",
+        "price_detail": {
+            "plus_monthly": 999.0,
+            "pro_monthly": 9990.0,
+            "plus_yearly": 9990.0
+        }
+    },
+    {
+        "country_code": "pl",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 9999.0,
+            "pro_monthly": 99999.0,
+            "plus_yearly": 99999.0
+        }
+    },
+    {
+        "country_code": "pt",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "qa",
+        "currency": "QAR",
+        "price_detail": {
+            "plus_monthly": 69.99,
+            "pro_monthly": 699.99,
+            "plus_yearly": 699.99
+        }
+    },
+    {
+        "country_code": "ro",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 9999.0,
+            "pro_monthly": 99999.0,
+            "plus_yearly": 99999.0
+        }
+    },
+    {
+        "country_code": "rw",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "kn",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "lc",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "vc",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "ws",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "sm",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "st",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 200.0,
+            "pro_monthly": 200.0,
+            "plus_yearly": 19.99
+        }
+    },
+    {
+        "country_code": "sa",
+        "currency": "SAR",
+        "price_detail": {
+            "plus_monthly": 89.99,
+            "pro_monthly": 899.99,
+            "plus_yearly": 899.99
+        }
+    },
+    {
+        "country_code": "sn",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "rs",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "sc",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "sl",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "sg",
+        "currency": "SGD",
+        "price_detail": {
+            "plus_monthly": 29.98,
+            "pro_monthly": 299.98,
+            "plus_yearly": 299.98
+        }
+    },
+    {
+        "country_code": "sk",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "si",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 22900.0,
+            "plus_yearly": 22900.0
+        }
+    },
+    {
+        "country_code": "sb",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "so",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "za",
+        "currency": "ZAR",
+        "price_detail": {
+            "plus_monthly": 399.99,
+            "pro_monthly": 3999.99,
+            "plus_yearly": 3999.99
+        }
+    },
+    {
+        "country_code": "kr",
+        "currency": "KRW",
+        "price_detail": {
+            "plus_monthly": 29000,
+            "pro_monthly": 299000,
+            "plus_yearly": 299000
+        }
+    },
+    {
+        "country_code": "ss",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "es",
+        "currency": "EUR",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 229.0,
+            "plus_yearly": 229.0
+        }
+    },
+    {
+        "country_code": "lk",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "sr",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "se",
+        "currency": "SEK",
+        "price_detail": {
+            "plus_monthly": 24900.0,
+            "pro_monthly": 2.0,
+            "plus_yearly": 2.0
+        }
+    },
+    {
+        "country_code": "ch",
+        "currency": "CHF",
+        "price_detail": {
+            "plus_monthly": 20.0,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "sd",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "tw",
+        "currency": "TWD",
+        "price_detail": {
+            "plus_monthly": 690.0,
+            "pro_monthly": 6990.0,
+            "plus_yearly": 6990.0
+        }
+    },
+    {
+        "country_code": "tj",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "tz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 49900.0,
+            "pro_monthly": 599900.0,
+            "plus_yearly": 599900.0
+        }
+    },
+    {
+        "country_code": "th",
+        "currency": "THB",
+        "price_detail": {
+            "plus_monthly": 699.0,
+            "pro_monthly": 6990.0,
+            "plus_yearly": 6990.0
+        }
+    },
+    {
+        "country_code": "tl",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "tg",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "to",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "tt",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "tn",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "tr",
+        "currency": "TRY",
+        "price_detail": {
+            "plus_monthly": 49999.0,
+            "pro_monthly": 8.0,
+            "plus_yearly": 9.0
+        }
+    },
+    {
+        "country_code": "tm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "tv",
+        "currency": "Unknown",
+        "price_detail": "Error"
+    },
+    {
+        "country_code": "ug",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "ua",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 2299.0,
+            "pro_monthly": 25000.0,
+            "plus_yearly": 25000.0
+        }
+    },
+    {
+        "country_code": "ae",
+        "currency": "AED",
+        "price_detail": {
+            "plus_monthly": 79.99,
+            "pro_monthly": 799.99,
+            "plus_yearly": 799.99
+        }
+    },
+    {
+        "country_code": "gb",
+        "currency": "GBP",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "us",
+        "currency": "USD",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "uy",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "uz",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "vu",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "vn",
+        "currency": "VND",
+        "price_detail": "Not Found"
+    },
+    {
+        "country_code": "ye",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 200.0,
+            "plus_yearly": 200.0
+        }
+    },
+    {
+        "country_code": "zm",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 19.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    },
+    {
+        "country_code": "zw",
+        "currency": "Unknown",
+        "price_detail": {
+            "plus_monthly": 22.99,
+            "pro_monthly": 250.0,
+            "plus_yearly": 250.0
+        }
+    }
+]

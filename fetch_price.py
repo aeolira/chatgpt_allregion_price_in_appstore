@@ -3,39 +3,25 @@ from bs4 import BeautifulSoup
 import json
 import time
 import re
+import os
+from dotenv import load_dotenv
 
 
 # =====================
-# 国家代码和对应货币代码
+# 加载国家代码和货币映射
 # =====================
-country_currency_map = {
-    "us": "USD",
-    "vn": "VND",
-    "cn": "CNY",
-    "hk": "HKD",
-    "jp": "JPY",
-    "kr": "KRW",
-    "de": "EUR",
-    "fr": "EUR",
-    "it": "EUR",
-    "es": "EUR",
-    "ru": "RUB",
-    "in": "INR",
-    "id": "IDR",
-    "th": "THB",
-    "my": "MYR",
-    "sg": "SGD",
-    "ph": "PHP",
-    "au": "AUD",
-    "gb": "GBP",
-    "ca": "CAD"
-}
+load_dotenv('countrycode.env')
+country_codes = os.getenv('COUNTRY_CODES').split(',')
+
+with open('currency_map.json', 'r', encoding='utf-8') as f:
+    currency_map = json.load(f)
+
 
 # =====================
 # 定义格式化规则
 # =====================
-europe_countries = ["de", "fr", "it", "es"]
-no_decimal_currencies = ["VND", "KRW", "JPY"]
+europe_countries = ['de', 'fr', 'it', 'es', 'nl', 'pt', 'fi']  # 欧洲格式
+no_decimal_currencies = ['JPY', 'KRW', 'VND']                 # 无小数
 
 
 # =====================
@@ -45,13 +31,11 @@ def parse_price(price_text, country_code, currency):
     """
     根据国家和货币规则，正确提取价格为float或int
     """
-    # 欧洲（de, fr, it, es）用逗号作小数点，点作千位
     if country_code in europe_countries:
-        price_text = price_text.replace(".", "").replace(",", ".")
+        price_text = price_text.replace('.', '').replace(',', '.')
     else:
-        price_text = price_text.replace(",", "")
+        price_text = price_text.replace(',', '')
 
-    # 提取数字部分
     match = re.search(r'[\d\.]+', price_text)
     if not match:
         return None
@@ -59,7 +43,6 @@ def parse_price(price_text, country_code, currency):
     num_str = match.group()
 
     try:
-        # 无小数的国家（如JPY, VND, KRW）
         if currency in no_decimal_currencies:
             return int(float(num_str))
         else:
@@ -71,7 +54,6 @@ def parse_price(price_text, country_code, currency):
 # =====================
 # 爬取价格
 # =====================
-country_codes = list(country_currency_map.keys())
 url_template = "https://apps.apple.com/{}/app/chatgpt/id6448311069"
 
 results = []
@@ -81,14 +63,17 @@ headers = {
 }
 
 for code in country_codes:
+    code = code.strip().lower()
     url = url_template.format(code)
+    currency = currency_map.get(code, 'Unknown')
+
     try:
         response = requests.get(url, headers=headers, timeout=15)
         if response.status_code != 200:
             print(f"Failed to fetch {code}: HTTP {response.status_code}")
             results.append({
                 "country_code": code,
-                "currency": country_currency_map.get(code, "Unknown"),
+                "currency": currency,
                 "price_detail": "Error"
             })
             continue
@@ -100,10 +85,9 @@ for code in country_codes:
 
         for item in items:
             price_tag = item.find("span", class_="list-with-numbers__item__price")
-
             if price_tag:
                 price_text = price_tag.get_text(strip=True)
-                price_value = parse_price(price_text, code, country_currency_map.get(code, "Unknown"))
+                price_value = parse_price(price_text, code, currency)
                 if price_value is not None:
                     prices.append(price_value)
 
@@ -118,25 +102,28 @@ for code in country_codes:
 
         results.append({
             "country_code": code,
-            "currency": country_currency_map.get(code, "Unknown"),
+            "currency": currency,
             "price_detail": price_detail
         })
 
-        print(f"{code} done.")
+        print(f"{code.upper()} ✅ Done.")
         time.sleep(1)
 
     except Exception as e:
         print(f"Error fetching {code}: {e}")
         results.append({
             "country_code": code,
-            "currency": country_currency_map.get(code, "Unknown"),
+            "currency": currency,
             "price_detail": "Error"
         })
+
 
 # =====================
 # 保存为 JSON 文件
 # =====================
-with open('chatgpt_app_store_prices_structured.json', 'w', encoding='utf-8') as f:
+os.makedirs('output', exist_ok=True)
+
+with open('output/chatgpt_app_store_prices_structured.json', 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=4)
 
-print("完成，文件已保存为 chatgpt_app_store_prices_structured.json")
+print("🎉 完成，文件已保存到 output/chatgpt_app_store_prices_structured.json")
