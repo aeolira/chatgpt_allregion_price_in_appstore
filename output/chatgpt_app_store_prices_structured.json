@@ -1,7 +1,7 @@
 [
     {
         "country_code": "al",
-        "currency": "Unknown",
+        "currency": "ALL",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -10,7 +10,7 @@
     },
     {
         "country_code": "dz",
-        "currency": "Unknown",
+        "currency": "DZD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -19,7 +19,7 @@
     },
     {
         "country_code": "af",
-        "currency": "Unknown",
+        "currency": "AFN",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -28,12 +28,12 @@
     },
     {
         "country_code": "ad",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": "Error"
     },
     {
         "country_code": "ao",
-        "currency": "Unknown",
+        "currency": "AOA",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -42,7 +42,7 @@
     },
     {
         "country_code": "ag",
-        "currency": "Unknown",
+        "currency": "XCD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -51,7 +51,7 @@
     },
     {
         "country_code": "ar",
-        "currency": "Unknown",
+        "currency": "ARS",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -60,7 +60,7 @@
     },
     {
         "country_code": "am",
-        "currency": "Unknown",
+        "currency": "AMD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -78,7 +78,7 @@
     },
     {
         "country_code": "at",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -87,7 +87,7 @@
     },
     {
         "country_code": "az",
-        "currency": "Unknown",
+        "currency": "AZN",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -96,7 +96,7 @@
     },
     {
         "country_code": "bs",
-        "currency": "Unknown",
+        "currency": "BSD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -105,7 +105,7 @@
     },
     {
         "country_code": "bh",
-        "currency": "Unknown",
+        "currency": "BHD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -114,12 +114,12 @@
     },
     {
         "country_code": "bd",
-        "currency": "Unknown",
+        "currency": "BDT",
         "price_detail": "Error"
     },
     {
         "country_code": "bb",
-        "currency": "Unknown",
+        "currency": "BBD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -128,7 +128,7 @@
     },
     {
         "country_code": "be",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -137,7 +137,7 @@
     },
     {
         "country_code": "bz",
-        "currency": "Unknown",
+        "currency": "BZD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -146,7 +146,7 @@
     },
     {
         "country_code": "bj",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 250.0,
@@ -155,7 +155,7 @@
     },
     {
         "country_code": "bt",
-        "currency": "Unknown",
+        "currency": "BTN",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -164,7 +164,7 @@
     },
     {
         "country_code": "bo",
-        "currency": "Unknown",
+        "currency": "BOB",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -173,7 +173,7 @@
     },
     {
         "country_code": "ba",
-        "currency": "Unknown",
+        "currency": "BAM",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -182,7 +182,7 @@
     },
     {
         "country_code": "bw",
-        "currency": "Unknown",
+        "currency": "BWP",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -200,7 +200,7 @@
     },
     {
         "country_code": "bn",
-        "currency": "Unknown",
+        "currency": "BND",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -209,7 +209,7 @@
     },
     {
         "country_code": "bg",
-        "currency": "Unknown",
+        "currency": "BGN",
         "price_detail": {
             "plus_monthly": 3999.0,
             "pro_monthly": 39999.0,
@@ -218,7 +218,7 @@
     },
     {
         "country_code": "bf",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -227,12 +227,12 @@
     },
     {
         "country_code": "bi",
-        "currency": "Unknown",
+        "currency": "BIF",
         "price_detail": "Error"
     },
     {
         "country_code": "cv",
-        "currency": "Unknown",
+        "currency": "CVE",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -241,7 +241,7 @@
     },
     {
         "country_code": "kh",
-        "currency": "Unknown",
+        "currency": "KHR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -250,7 +250,7 @@
     },
     {
         "country_code": "cm",
-        "currency": "Unknown",
+        "currency": "XAF",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 25000.0,
@@ -268,12 +268,12 @@
     },
     {
         "country_code": "cf",
-        "currency": "Unknown",
+        "currency": "XAF",
         "price_detail": "Error"
     },
     {
         "country_code": "td",
-        "currency": "Unknown",
+        "currency": "XAF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -282,7 +282,7 @@
     },
     {
         "country_code": "cl",
-        "currency": "Unknown",
+        "currency": "CLP",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 199.99,
@@ -291,7 +291,7 @@
     },
     {
         "country_code": "co",
-        "currency": "Unknown",
+        "currency": "COP",
         "price_detail": {
             "plus_monthly": 99.9,
             "pro_monthly": 999.9,
@@ -300,12 +300,12 @@
     },
     {
         "country_code": "km",
-        "currency": "Unknown",
+        "currency": "KMF",
         "price_detail": "Error"
     },
     {
         "country_code": "cg",
-        "currency": "Unknown",
+        "currency": "XAF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -314,7 +314,7 @@
     },
     {
         "country_code": "cd",
-        "currency": "Unknown",
+        "currency": "CDF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -323,7 +323,7 @@
     },
     {
         "country_code": "cr",
-        "currency": "Unknown",
+        "currency": "CRC",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -332,7 +332,7 @@
     },
     {
         "country_code": "ci",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 1999.0,
             "pro_monthly": 25000.0,
@@ -341,7 +341,7 @@
     },
     {
         "country_code": "hr",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -350,7 +350,7 @@
     },
     {
         "country_code": "cy",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -359,7 +359,7 @@
     },
     {
         "country_code": "cz",
-        "currency": "Unknown",
+        "currency": "CZK",
         "price_detail": {
             "plus_monthly": 49900.0,
             "pro_monthly": 4.0,
@@ -368,7 +368,7 @@
     },
     {
         "country_code": "dk",
-        "currency": "Unknown",
+        "currency": "DKK",
         "price_detail": {
             "plus_monthly": 17900.0,
             "pro_monthly": 1.8,
@@ -377,12 +377,12 @@
     },
     {
         "country_code": "dj",
-        "currency": "Unknown",
+        "currency": "DJF",
         "price_detail": "Error"
     },
     {
         "country_code": "dm",
-        "currency": "Unknown",
+        "currency": "XCD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -391,7 +391,7 @@
     },
     {
         "country_code": "do",
-        "currency": "Unknown",
+        "currency": "DOP",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -400,7 +400,7 @@
     },
     {
         "country_code": "ec",
-        "currency": "Unknown",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -418,7 +418,7 @@
     },
     {
         "country_code": "sv",
-        "currency": "Unknown",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -427,17 +427,17 @@
     },
     {
         "country_code": "gq",
-        "currency": "Unknown",
+        "currency": "XAF",
         "price_detail": "Error"
     },
     {
         "country_code": "er",
-        "currency": "Unknown",
+        "currency": "ERN",
         "price_detail": "Error"
     },
     {
         "country_code": "ee",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -446,7 +446,7 @@
     },
     {
         "country_code": "sz",
-        "currency": "Unknown",
+        "currency": "SZL",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -455,12 +455,12 @@
     },
     {
         "country_code": "et",
-        "currency": "Unknown",
+        "currency": "ETB",
         "price_detail": "Error"
     },
     {
         "country_code": "fj",
-        "currency": "Unknown",
+        "currency": "FJD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -487,7 +487,7 @@
     },
     {
         "country_code": "ga",
-        "currency": "Unknown",
+        "currency": "XAF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -496,7 +496,7 @@
     },
     {
         "country_code": "gm",
-        "currency": "Unknown",
+        "currency": "GMD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -505,7 +505,7 @@
     },
     {
         "country_code": "ge",
-        "currency": "Unknown",
+        "currency": "GEL",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -523,7 +523,7 @@
     },
     {
         "country_code": "gh",
-        "currency": "Unknown",
+        "currency": "GHS",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -532,7 +532,7 @@
     },
     {
         "country_code": "gr",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -541,7 +541,7 @@
     },
     {
         "country_code": "gd",
-        "currency": "Unknown",
+        "currency": "XCD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -550,7 +550,7 @@
     },
     {
         "country_code": "gt",
-        "currency": "Unknown",
+        "currency": "GTQ",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -559,12 +559,12 @@
     },
     {
         "country_code": "gn",
-        "currency": "Unknown",
+        "currency": "GNF",
         "price_detail": "Error"
     },
     {
         "country_code": "gw",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -573,7 +573,7 @@
     },
     {
         "country_code": "gy",
-        "currency": "Unknown",
+        "currency": "GYD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -582,17 +582,17 @@
     },
     {
         "country_code": "ht",
-        "currency": "Unknown",
+        "currency": "HTG",
         "price_detail": "Error"
     },
     {
         "country_code": "va",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": "Error"
     },
     {
         "country_code": "hn",
-        "currency": "Unknown",
+        "currency": "HNL",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -601,7 +601,7 @@
     },
     {
         "country_code": "hu",
-        "currency": "Unknown",
+        "currency": "HUF",
         "price_detail": {
             "plus_monthly": 8990.0,
             "pro_monthly": 89990.0,
@@ -610,7 +610,7 @@
     },
     {
         "country_code": "is",
-        "currency": "Unknown",
+        "currency": "ISK",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -637,7 +637,7 @@
     },
     {
         "country_code": "iq",
-        "currency": "Unknown",
+        "currency": "IQD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -646,7 +646,7 @@
     },
     {
         "country_code": "ie",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 229.0,
@@ -655,7 +655,7 @@
     },
     {
         "country_code": "il",
-        "currency": "Unknown",
+        "currency": "ILS",
         "price_detail": {
             "plus_monthly": 69.9,
             "pro_monthly": 699.9,
@@ -673,7 +673,7 @@
     },
     {
         "country_code": "jm",
-        "currency": "Unknown",
+        "currency": "JMD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -691,7 +691,7 @@
     },
     {
         "country_code": "jo",
-        "currency": "Unknown",
+        "currency": "JOD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -700,7 +700,7 @@
     },
     {
         "country_code": "kz",
-        "currency": "Unknown",
+        "currency": "KZT",
         "price_detail": {
             "plus_monthly": 9990.0,
             "pro_monthly": 99990.0,
@@ -709,7 +709,7 @@
     },
     {
         "country_code": "ke",
-        "currency": "Unknown",
+        "currency": "KES",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -718,7 +718,7 @@
     },
     {
         "country_code": "ki",
-        "currency": "Unknown",
+        "currency": "AUD",
         "price_detail": "Error"
     },
     {
@@ -732,7 +732,7 @@
     },
     {
         "country_code": "kg",
-        "currency": "Unknown",
+        "currency": "KGS",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -741,7 +741,7 @@
     },
     {
         "country_code": "la",
-        "currency": "Unknown",
+        "currency": "LAK",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -750,7 +750,7 @@
     },
     {
         "country_code": "lv",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -759,7 +759,7 @@
     },
     {
         "country_code": "lb",
-        "currency": "Unknown",
+        "currency": "LBP",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -768,12 +768,12 @@
     },
     {
         "country_code": "ls",
-        "currency": "Unknown",
+        "currency": "LSL",
         "price_detail": "Error"
     },
     {
         "country_code": "lr",
-        "currency": "Unknown",
+        "currency": "LRD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -782,7 +782,7 @@
     },
     {
         "country_code": "ly",
-        "currency": "Unknown",
+        "currency": "LYD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -791,12 +791,12 @@
     },
     {
         "country_code": "li",
-        "currency": "Unknown",
+        "currency": "CHF",
         "price_detail": "Error"
     },
     {
         "country_code": "lt",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -805,7 +805,7 @@
     },
     {
         "country_code": "lu",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -814,7 +814,7 @@
     },
     {
         "country_code": "mg",
-        "currency": "Unknown",
+        "currency": "MGA",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -823,7 +823,7 @@
     },
     {
         "country_code": "mw",
-        "currency": "Unknown",
+        "currency": "MWK",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -841,7 +841,7 @@
     },
     {
         "country_code": "mv",
-        "currency": "Unknown",
+        "currency": "MVR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -850,7 +850,7 @@
     },
     {
         "country_code": "ml",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -859,7 +859,7 @@
     },
     {
         "country_code": "mt",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -868,12 +868,12 @@
     },
     {
         "country_code": "mh",
-        "currency": "Unknown",
+        "currency": "USD",
         "price_detail": "Error"
     },
     {
         "country_code": "mr",
-        "currency": "Unknown",
+        "currency": "MRU",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -882,7 +882,7 @@
     },
     {
         "country_code": "mu",
-        "currency": "Unknown",
+        "currency": "MUR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -900,7 +900,7 @@
     },
     {
         "country_code": "fm",
-        "currency": "Unknown",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 200.0,
             "pro_monthly": 200.0,
@@ -909,7 +909,7 @@
     },
     {
         "country_code": "md",
-        "currency": "Unknown",
+        "currency": "MDL",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -918,12 +918,12 @@
     },
     {
         "country_code": "mc",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": "Error"
     },
     {
         "country_code": "mn",
-        "currency": "Unknown",
+        "currency": "MNT",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -932,7 +932,7 @@
     },
     {
         "country_code": "me",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 1999.0,
             "pro_monthly": 20000.0,
@@ -941,7 +941,7 @@
     },
     {
         "country_code": "ma",
-        "currency": "Unknown",
+        "currency": "MAD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -950,7 +950,7 @@
     },
     {
         "country_code": "mz",
-        "currency": "Unknown",
+        "currency": "MZN",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -959,7 +959,7 @@
     },
     {
         "country_code": "mm",
-        "currency": "Unknown",
+        "currency": "MMK",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -968,7 +968,7 @@
     },
     {
         "country_code": "na",
-        "currency": "Unknown",
+        "currency": "NAD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -977,7 +977,7 @@
     },
     {
         "country_code": "nr",
-        "currency": "Unknown",
+        "currency": "AUD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -986,7 +986,7 @@
     },
     {
         "country_code": "np",
-        "currency": "Unknown",
+        "currency": "NPR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 250.0,
@@ -1013,7 +1013,7 @@
     },
     {
         "country_code": "ni",
-        "currency": "Unknown",
+        "currency": "NIO",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1022,7 +1022,7 @@
     },
     {
         "country_code": "ne",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1031,7 +1031,7 @@
     },
     {
         "country_code": "ng",
-        "currency": "Unknown",
+        "currency": "NGN",
         "price_detail": {
             "plus_monthly": 9900.0,
             "pro_monthly": 299900.0,
@@ -1040,7 +1040,7 @@
     },
     {
         "country_code": "mk",
-        "currency": "Unknown",
+        "currency": "MKD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1058,7 +1058,7 @@
     },
     {
         "country_code": "om",
-        "currency": "Unknown",
+        "currency": "OMR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1067,7 +1067,7 @@
     },
     {
         "country_code": "pk",
-        "currency": "Unknown",
+        "currency": "PKR",
         "price_detail": {
             "plus_monthly": 4900.0,
             "pro_monthly": 49900.0,
@@ -1076,7 +1076,7 @@
     },
     {
         "country_code": "pw",
-        "currency": "Unknown",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1085,12 +1085,12 @@
     },
     {
         "country_code": "ps",
-        "currency": "Unknown",
+        "currency": "ILS",
         "price_detail": "Error"
     },
     {
         "country_code": "pa",
-        "currency": "Unknown",
+        "currency": "PAB",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1099,7 +1099,7 @@
     },
     {
         "country_code": "pg",
-        "currency": "Unknown",
+        "currency": "PGK",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1108,7 +1108,7 @@
     },
     {
         "country_code": "py",
-        "currency": "Unknown",
+        "currency": "PYG",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1117,7 +1117,7 @@
     },
     {
         "country_code": "pe",
-        "currency": "Unknown",
+        "currency": "PEN",
         "price_detail": {
             "plus_monthly": 79.9,
             "pro_monthly": 799.9,
@@ -1135,7 +1135,7 @@
     },
     {
         "country_code": "pl",
-        "currency": "Unknown",
+        "currency": "PLN",
         "price_detail": {
             "plus_monthly": 9999.0,
             "pro_monthly": 99999.0,
@@ -1162,7 +1162,7 @@
     },
     {
         "country_code": "ro",
-        "currency": "Unknown",
+        "currency": "RON",
         "price_detail": {
             "plus_monthly": 9999.0,
             "pro_monthly": 99999.0,
@@ -1171,7 +1171,7 @@
     },
     {
         "country_code": "rw",
-        "currency": "Unknown",
+        "currency": "RWF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1180,7 +1180,7 @@
     },
     {
         "country_code": "kn",
-        "currency": "Unknown",
+        "currency": "XCD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1189,7 +1189,7 @@
     },
     {
         "country_code": "lc",
-        "currency": "Unknown",
+        "currency": "XCD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1198,7 +1198,7 @@
     },
     {
         "country_code": "vc",
-        "currency": "Unknown",
+        "currency": "XCD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1207,17 +1207,17 @@
     },
     {
         "country_code": "ws",
-        "currency": "Unknown",
+        "currency": "WST",
         "price_detail": "Error"
     },
     {
         "country_code": "sm",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": "Error"
     },
     {
         "country_code": "st",
-        "currency": "Unknown",
+        "currency": "STN",
         "price_detail": {
             "plus_monthly": 200.0,
             "pro_monthly": 200.0,
@@ -1235,7 +1235,7 @@
     },
     {
         "country_code": "sn",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1244,7 +1244,7 @@
     },
     {
         "country_code": "rs",
-        "currency": "Unknown",
+        "currency": "RSD",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -1253,7 +1253,7 @@
     },
     {
         "country_code": "sc",
-        "currency": "Unknown",
+        "currency": "SCR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1262,7 +1262,7 @@
     },
     {
         "country_code": "sl",
-        "currency": "Unknown",
+        "currency": "SLL",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1280,7 +1280,7 @@
     },
     {
         "country_code": "sk",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -1289,7 +1289,7 @@
     },
     {
         "country_code": "si",
-        "currency": "Unknown",
+        "currency": "EUR",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 22900.0,
@@ -1298,7 +1298,7 @@
     },
     {
         "country_code": "sb",
-        "currency": "Unknown",
+        "currency": "SBD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1307,7 +1307,7 @@
     },
     {
         "country_code": "so",
-        "currency": "Unknown",
+        "currency": "SOS",
         "price_detail": "Error"
     },
     {
@@ -1330,7 +1330,7 @@
     },
     {
         "country_code": "ss",
-        "currency": "Unknown",
+        "currency": "SSP",
         "price_detail": "Error"
     },
     {
@@ -1344,7 +1344,7 @@
     },
     {
         "country_code": "lk",
-        "currency": "Unknown",
+        "currency": "LKR",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1353,7 +1353,7 @@
     },
     {
         "country_code": "sr",
-        "currency": "Unknown",
+        "currency": "SRD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1380,7 +1380,7 @@
     },
     {
         "country_code": "sd",
-        "currency": "Unknown",
+        "currency": "SDG",
         "price_detail": "Error"
     },
     {
@@ -1394,7 +1394,7 @@
     },
     {
         "country_code": "tj",
-        "currency": "Unknown",
+        "currency": "TJS",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 200.0,
@@ -1403,7 +1403,7 @@
     },
     {
         "country_code": "tz",
-        "currency": "Unknown",
+        "currency": "TZS",
         "price_detail": {
             "plus_monthly": 49900.0,
             "pro_monthly": 599900.0,
@@ -1421,17 +1421,17 @@
     },
     {
         "country_code": "tl",
-        "currency": "Unknown",
+        "currency": "USD",
         "price_detail": "Error"
     },
     {
         "country_code": "tg",
-        "currency": "Unknown",
+        "currency": "XOF",
         "price_detail": "Error"
     },
     {
         "country_code": "to",
-        "currency": "Unknown",
+        "currency": "TOP",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1440,7 +1440,7 @@
     },
     {
         "country_code": "tt",
-        "currency": "Unknown",
+        "currency": "TTD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1449,7 +1449,7 @@
     },
     {
         "country_code": "tn",
-        "currency": "Unknown",
+        "currency": "TND",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1467,7 +1467,7 @@
     },
     {
         "country_code": "tm",
-        "currency": "Unknown",
+        "currency": "TMT",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1476,12 +1476,12 @@
     },
     {
         "country_code": "tv",
-        "currency": "Unknown",
+        "currency": "AUD",
         "price_detail": "Error"
     },
     {
         "country_code": "ug",
-        "currency": "Unknown",
+        "currency": "UGX",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -1490,7 +1490,7 @@
     },
     {
         "country_code": "ua",
-        "currency": "Unknown",
+        "currency": "UAH",
         "price_detail": {
             "plus_monthly": 2299.0,
             "pro_monthly": 25000.0,
@@ -1526,7 +1526,7 @@
     },
     {
         "country_code": "uy",
-        "currency": "Unknown",
+        "currency": "UYU",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1535,7 +1535,7 @@
     },
     {
         "country_code": "uz",
-        "currency": "Unknown",
+        "currency": "UZS",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1544,7 +1544,7 @@
     },
     {
         "country_code": "vu",
-        "currency": "Unknown",
+        "currency": "VUV",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1558,7 +1558,7 @@
     },
     {
         "country_code": "ye",
-        "currency": "Unknown",
+        "currency": "YER",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1567,7 +1567,7 @@
     },
     {
         "country_code": "zm",
-        "currency": "Unknown",
+        "currency": "ZMW",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 250.0,
@@ -1576,7 +1576,7 @@
     },
     {
         "country_code": "zw",
-        "currency": "Unknown",
+        "currency": "ZWL",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
