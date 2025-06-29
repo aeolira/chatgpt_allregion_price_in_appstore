@@ -1,0 +1,102 @@
+[
+    {
+        "country_code": "us",
+        "currency": "USD",
+        "prices": "ChatGPT Plus: $19.99; ChatGPT Pro: $200.00; ChatGPT Plus: $200.00"
+    },
+    {
+        "country_code": "vn",
+        "currency": "VND",
+        "prices": "ChatGPT Plus: 499.000Ä; ChatGPT Pro: 4.999.000Ä; ChatGPT Plus: 4.999.000Ä"
+    },
+    {
+        "country_code": "cn",
+        "currency": "CNY",
+        "prices": "Error"
+    },
+    {
+        "country_code": "hk",
+        "currency": "HKD",
+        "prices": "Error"
+    },
+    {
+        "country_code": "jp",
+        "currency": "JPY",
+        "prices": "ChatGPT Plus: Â¥3,000; ChatGPT Pro: Â¥30,000; ChatGPT Plus: Â¥30,000"
+    },
+    {
+        "country_code": "kr",
+        "currency": "KRW",
+        "prices": "ChatGPT Plus: ï¿¦29,000; ChatGPT Pro: ï¿¦299,000; ChatGPT Plus: ï¿¦299,000"
+    },
+    {
+        "country_code": "de",
+        "currency": "EUR",
+        "prices": "ChatGPT Plus: 22,99Â â¬; ChatGPT Pro: 229,00Â â¬; ChatGPT Plus: 229,00Â â¬"
+    },
+    {
+        "country_code": "fr",
+        "currency": "EUR",
+        "prices": "ChatGPT Plus: 22,99Â â¬; ChatGPT Pro: 229,00Â â¬; ChatGPT Plus: 229,00Â â¬"
+    },
+    {
+        "country_code": "it",
+        "currency": "EUR",
+        "prices": "ChatGPT Plus: 22,99Â â¬; ChatGPT Pro: 229,00Â â¬; ChatGPT Plus: 229,00Â â¬"
+    },
+    {
+        "country_code": "es",
+        "currency": "EUR",
+        "prices": "ChatGPT Plus: 22,99Â â¬; ChatGPT Pro: 229,00Â â¬; ChatGPT Plus: 229,00Â â¬"
+    },
+    {
+        "country_code": "ru",
+        "currency": "RUB",
+        "prices": "Error"
+    },
+    {
+        "country_code": "in",
+        "currency": "INR",
+        "prices": "ChatGPT Plus: â¹Â 1,999; ChatGPT Pro: â¹Â 19,900; ChatGPT Plus: â¹Â 19,900"
+    },
+    {
+        "country_code": "id",
+        "currency": "IDR",
+        "prices": "ChatGPT Plus: RpÂ 349ribu; ChatGPT Pro: RpÂ 3,499juta; ChatGPT Plus: RpÂ 3,499juta"
+    },
+    {
+        "country_code": "th",
+        "currency": "THB",
+        "prices": "ChatGPT Plus: à¸¿699.00; ChatGPT Pro: à¸¿6,990.00; ChatGPT Plus: à¸¿6,990.00"
+    },
+    {
+        "country_code": "my",
+        "currency": "MYR",
+        "prices": "ChatGPT Plus: RM99.90; ChatGPT Pro: RM999.90; ChatGPT Plus: RM999.90"
+    },
+    {
+        "country_code": "sg",
+        "currency": "SGD",
+        "prices": "ChatGPT Plus: S$Â 29.98; ChatGPT Pro: S$Â 299.98; ChatGPT Plus: S$Â 299.98"
+    },
+    {
+        "country_code": "ph",
+        "currency": "PHP",
+        "prices": "ChatGPT Plus: â±Â 999.00; ChatGPT Pro: â±Â 9,990.00; ChatGPT Plus: â±Â 9,990.00"
+    },
+    {
+        "country_code": "au",
+        "currency": "AUD",
+        "prices": "ChatGPT Plus: $29.99; ChatGPT Pro: $300.00; ChatGPT Plus: $300.00"
+    },
+    {
+        "country_code": "gb",
+        "currency": "GBP",
+        "prices": "ChatGPT Plus: Â£19.99; ChatGPT Pro: Â£200.00; ChatGPT Plus: Â£200.00"
+    },
+    {
+        "country_code": "ca",
+        "currency": "CAD",
+        "prices": "ChatGPT Plus: $24.99; ChatGPT Pro: $249.00; ChatGPT Plus: $249.00"
+    }
+]
