@@ -18,29 +18,50 @@ with open('currency_map.json', 'r', encoding='utf-8') as f:
 
 
 # =====================
-# 定义格式化规则
+# 格式化规则
 # =====================
 europe_countries = ['de', 'fr', 'it', 'es', 'nl', 'pt', 'fi']  # 欧洲格式
 no_decimal_currencies = ['JPY', 'KRW', 'VND']                 # 无小数
 
 
 # =====================
-# 价格提取函数
+# 提取货币符号和数值
 # =====================
-def parse_price(price_text, country_code, currency):
+def extract_currency_and_price(price_text):
     """
-    根据国家和货币规则，正确提取价格为float或int
+    提取货币符号（$、USD、€）和价格数字
+    返回：(currency_symbol, number_string)
+    """
+    price_text = price_text.replace('\xa0', ' ').strip()
+
+    # 修复潜在乱码
+    price_text = price_text.encode('latin1', errors='ignore').decode('utf-8', errors='ignore')
+
+    # 带货币代码：USD 19.99
+    match = re.match(r'^([A-Z]{2,3})\s*([\d\.,]+)', price_text)
+    if match:
+        return match.group(1), match.group(2)
+
+    # 带货币符号：$19.99, €19,99
+    match = re.match(r'^([^\d\s]+)\s*([\d\.,]+)', price_text)
+    if match:
+        return match.group(1), match.group(2)
+
+    # 没有货币符号，返回None
+    return None, price_text
+
+
+# =====================
+# 数字标准化
+# =====================
+def parse_price(num_str, country_code, currency):
+    """
+    根据国家和货币规则，格式化价格
     """
     if country_code in europe_countries:
-        price_text = price_text.replace('.', '').replace(',', '.')
+        num_str = num_str.replace('.', '').replace(',', '.')
     else:
-        price_text = price_text.replace(',', '')
-
-    match = re.search(r'[\d\.]+', price_text)
-    if not match:
-        return None
-
-    num_str = match.group()
+        num_str = num_str.replace(',', '')
 
     try:
         if currency in no_decimal_currencies:
@@ -65,15 +86,19 @@ headers = {
 for code in country_codes:
     code = code.strip().lower()
     url = url_template.format(code)
-    currency = currency_map.get(code, 'Unknown')
+    default_currency = currency_map.get(code, 'Unknown')
 
     try:
         response = requests.get(url, headers=headers, timeout=15)
+
+        # 🔥 修复乱码关键一行
+        response.encoding = response.apparent_encoding
+
         if response.status_code != 200:
-            print(f"Failed to fetch {code}: HTTP {response.status_code}")
+            print(f"❌ Failed {code}: HTTP {response.status_code}")
             results.append({
                 "country_code": code,
-                "currency": currency,
+                "currency": default_currency,
                 "price_detail": "Error"
             })
             continue
@@ -82,14 +107,21 @@ for code in country_codes:
         items = soup.find_all("li", class_="list-with-numbers__item")
 
         prices = []
+        currencies_detected = []
 
         for item in items:
             price_tag = item.find("span", class_="list-with-numbers__item__price")
             if price_tag:
                 price_text = price_tag.get_text(strip=True)
-                price_value = parse_price(price_text, code, currency)
+
+                currency_symbol, num_str = extract_currency_and_price(price_text)
+
+                currency = currency_symbol if currency_symbol else default_currency
+                price_value = parse_price(num_str, code, currency)
+
                 if price_value is not None:
                     prices.append(price_value)
+                    currencies_detected.append(currency)
 
         if len(prices) == 3:
             price_detail = {
@@ -100,20 +132,22 @@ for code in country_codes:
         else:
             price_detail = "Not Found"
 
+        currency_final = max(set(currencies_detected), key=currencies_detected.count) if currencies_detected else default_currency
+
         results.append({
             "country_code": code,
-            "currency": currency,
+            "currency": currency_final,
             "price_detail": price_detail
         })
 
-        print(f"{code.upper()} ✅ Done.")
+        print(f"✅ {code.upper()} Done.")
         time.sleep(1)
 
     except Exception as e:
-        print(f"Error fetching {code}: {e}")
+        print(f"❌ Error {code}: {e}")
         results.append({
             "country_code": code,
-            "currency": currency,
+            "currency": default_currency,
             "price_detail": "Error"
         })
 

@@ -1,7 +1,7 @@
 [
     {
         "country_code": "al",
-        "currency": "ALL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -10,7 +10,7 @@
     },
     {
         "country_code": "dz",
-        "currency": "DZD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -19,7 +19,7 @@
     },
     {
         "country_code": "af",
-        "currency": "AFN",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -33,7 +33,7 @@
     },
     {
         "country_code": "ao",
-        "currency": "AOA",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -42,7 +42,7 @@
     },
     {
         "country_code": "ag",
-        "currency": "XCD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -51,7 +51,7 @@
     },
     {
         "country_code": "ar",
-        "currency": "ARS",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -60,7 +60,7 @@
     },
     {
         "country_code": "am",
-        "currency": "AMD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -69,7 +69,7 @@
     },
     {
         "country_code": "au",
-        "currency": "AUD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 29.99,
             "pro_monthly": 300.0,
@@ -87,7 +87,7 @@
     },
     {
         "country_code": "az",
-        "currency": "AZN",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -96,7 +96,7 @@
     },
     {
         "country_code": "bs",
-        "currency": "BSD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -105,7 +105,7 @@
     },
     {
         "country_code": "bh",
-        "currency": "BHD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -119,7 +119,7 @@
     },
     {
         "country_code": "bb",
-        "currency": "BBD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -137,7 +137,7 @@
     },
     {
         "country_code": "bz",
-        "currency": "BZD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -146,7 +146,7 @@
     },
     {
         "country_code": "bj",
-        "currency": "XOF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 250.0,
@@ -155,7 +155,7 @@
     },
     {
         "country_code": "bt",
-        "currency": "BTN",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -164,7 +164,7 @@
     },
     {
         "country_code": "bo",
-        "currency": "BOB",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -182,7 +182,7 @@
     },
     {
         "country_code": "bw",
-        "currency": "BWP",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -191,7 +191,7 @@
     },
     {
         "country_code": "br",
-        "currency": "BRL",
+        "currency": "R$",
         "price_detail": {
             "plus_monthly": 9990.0,
             "pro_monthly": 99990.0,
@@ -200,7 +200,7 @@
     },
     {
         "country_code": "bn",
-        "currency": "BND",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -210,15 +210,11 @@
     {
         "country_code": "bg",
         "currency": "BGN",
-        "price_detail": {
-            "plus_monthly": 3999.0,
-            "pro_monthly": 39999.0,
-            "plus_yearly": 39999.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "bf",
-        "currency": "XOF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -232,7 +228,7 @@
     },
     {
         "country_code": "cv",
-        "currency": "CVE",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -241,7 +237,7 @@
     },
     {
         "country_code": "kh",
-        "currency": "KHR",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -251,15 +247,11 @@
     {
         "country_code": "cm",
         "currency": "XAF",
-        "price_detail": {
-            "plus_monthly": 2299.0,
-            "pro_monthly": 25000.0,
-            "plus_yearly": 25000.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "ca",
-        "currency": "CAD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 24.99,
             "pro_monthly": 249.0,
@@ -273,7 +265,7 @@
     },
     {
         "country_code": "td",
-        "currency": "XAF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -282,7 +274,7 @@
     },
     {
         "country_code": "cl",
-        "currency": "CLP",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 199.99,
@@ -291,7 +283,7 @@
     },
     {
         "country_code": "co",
-        "currency": "COP",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 99.9,
             "pro_monthly": 999.9,
@@ -305,7 +297,7 @@
     },
     {
         "country_code": "cg",
-        "currency": "XAF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -314,7 +306,7 @@
     },
     {
         "country_code": "cd",
-        "currency": "CDF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -323,7 +315,7 @@
     },
     {
         "country_code": "cr",
-        "currency": "CRC",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -333,11 +325,7 @@
     {
         "country_code": "ci",
         "currency": "XOF",
-        "price_detail": {
-            "plus_monthly": 1999.0,
-            "pro_monthly": 25000.0,
-            "plus_yearly": 25000.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "hr",
@@ -360,20 +348,12 @@
     {
         "country_code": "cz",
         "currency": "CZK",
-        "price_detail": {
-            "plus_monthly": 49900.0,
-            "pro_monthly": 4.0,
-            "plus_yearly": 4.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "dk",
         "currency": "DKK",
-        "price_detail": {
-            "plus_monthly": 17900.0,
-            "pro_monthly": 1.8,
-            "plus_yearly": 1.8
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "dj",
@@ -382,7 +362,7 @@
     },
     {
         "country_code": "dm",
-        "currency": "XCD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -391,7 +371,7 @@
     },
     {
         "country_code": "do",
-        "currency": "DOP",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -446,7 +426,7 @@
     },
     {
         "country_code": "sz",
-        "currency": "SZL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -460,7 +440,7 @@
     },
     {
         "country_code": "fj",
-        "currency": "FJD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -487,7 +467,7 @@
     },
     {
         "country_code": "ga",
-        "currency": "XAF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -496,7 +476,7 @@
     },
     {
         "country_code": "gm",
-        "currency": "GMD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -505,7 +485,7 @@
     },
     {
         "country_code": "ge",
-        "currency": "GEL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -523,7 +503,7 @@
     },
     {
         "country_code": "gh",
-        "currency": "GHS",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -541,7 +521,7 @@
     },
     {
         "country_code": "gd",
-        "currency": "XCD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -550,7 +530,7 @@
     },
     {
         "country_code": "gt",
-        "currency": "GTQ",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -564,7 +544,7 @@
     },
     {
         "country_code": "gw",
-        "currency": "XOF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -573,7 +553,7 @@
     },
     {
         "country_code": "gy",
-        "currency": "GYD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -592,7 +572,7 @@
     },
     {
         "country_code": "hn",
-        "currency": "HNL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -610,7 +590,7 @@
     },
     {
         "country_code": "is",
-        "currency": "ISK",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -628,7 +608,7 @@
     },
     {
         "country_code": "id",
-        "currency": "IDR",
+        "currency": "Rp",
         "price_detail": {
             "plus_monthly": 349.0,
             "pro_monthly": 3499.0,
@@ -637,7 +617,7 @@
     },
     {
         "country_code": "iq",
-        "currency": "IQD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -673,7 +653,7 @@
     },
     {
         "country_code": "jm",
-        "currency": "JMD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -691,7 +671,7 @@
     },
     {
         "country_code": "jo",
-        "currency": "JOD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -709,7 +689,7 @@
     },
     {
         "country_code": "ke",
-        "currency": "KES",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -723,7 +703,7 @@
     },
     {
         "country_code": "kw",
-        "currency": "KWD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -732,7 +712,7 @@
     },
     {
         "country_code": "kg",
-        "currency": "KGS",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -741,7 +721,7 @@
     },
     {
         "country_code": "la",
-        "currency": "LAK",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -759,7 +739,7 @@
     },
     {
         "country_code": "lb",
-        "currency": "LBP",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -773,7 +753,7 @@
     },
     {
         "country_code": "lr",
-        "currency": "LRD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -782,7 +762,7 @@
     },
     {
         "country_code": "ly",
-        "currency": "LYD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -814,7 +794,7 @@
     },
     {
         "country_code": "mg",
-        "currency": "MGA",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -823,7 +803,7 @@
     },
     {
         "country_code": "mw",
-        "currency": "MWK",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -832,7 +812,7 @@
     },
     {
         "country_code": "my",
-        "currency": "MYR",
+        "currency": "RM",
         "price_detail": {
             "plus_monthly": 99.9,
             "pro_monthly": 999.9,
@@ -841,7 +821,7 @@
     },
     {
         "country_code": "mv",
-        "currency": "MVR",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -850,7 +830,7 @@
     },
     {
         "country_code": "ml",
-        "currency": "XOF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -873,7 +853,7 @@
     },
     {
         "country_code": "mr",
-        "currency": "MRU",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -882,7 +862,7 @@
     },
     {
         "country_code": "mu",
-        "currency": "MUR",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -891,7 +871,7 @@
     },
     {
         "country_code": "mx",
-        "currency": "MXN",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 399.0,
             "pro_monthly": 3999.0,
@@ -909,7 +889,7 @@
     },
     {
         "country_code": "md",
-        "currency": "MDL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -923,7 +903,7 @@
     },
     {
         "country_code": "mn",
-        "currency": "MNT",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -941,7 +921,7 @@
     },
     {
         "country_code": "ma",
-        "currency": "MAD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -950,7 +930,7 @@
     },
     {
         "country_code": "mz",
-        "currency": "MZN",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -959,7 +939,7 @@
     },
     {
         "country_code": "mm",
-        "currency": "MMK",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -968,7 +948,7 @@
     },
     {
         "country_code": "na",
-        "currency": "NAD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -977,7 +957,7 @@
     },
     {
         "country_code": "nr",
-        "currency": "AUD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -986,7 +966,7 @@
     },
     {
         "country_code": "np",
-        "currency": "NPR",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 250.0,
@@ -1004,7 +984,7 @@
     },
     {
         "country_code": "nz",
-        "currency": "NZD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 39.99,
             "pro_monthly": 400.0,
@@ -1013,7 +993,7 @@
     },
     {
         "country_code": "ni",
-        "currency": "NIO",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1022,7 +1002,7 @@
     },
     {
         "country_code": "ne",
-        "currency": "XOF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1040,7 +1020,7 @@
     },
     {
         "country_code": "mk",
-        "currency": "MKD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1050,15 +1030,11 @@
     {
         "country_code": "no",
         "currency": "NOK",
-        "price_detail": {
-            "plus_monthly": 24900.0,
-            "pro_monthly": 2.49,
-            "plus_yearly": 2.49
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "om",
-        "currency": "OMR",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1067,7 +1043,7 @@
     },
     {
         "country_code": "pk",
-        "currency": "PKR",
+        "currency": "Rs",
         "price_detail": {
             "plus_monthly": 4900.0,
             "pro_monthly": 49900.0,
@@ -1090,7 +1066,7 @@
     },
     {
         "country_code": "pa",
-        "currency": "PAB",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1099,7 +1075,7 @@
     },
     {
         "country_code": "pg",
-        "currency": "PGK",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1108,7 +1084,7 @@
     },
     {
         "country_code": "py",
-        "currency": "PYG",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1117,7 +1093,7 @@
     },
     {
         "country_code": "pe",
-        "currency": "PEN",
+        "currency": "S/",
         "price_detail": {
             "plus_monthly": 79.9,
             "pro_monthly": 799.9,
@@ -1136,11 +1112,7 @@
     {
         "country_code": "pl",
         "currency": "PLN",
-        "price_detail": {
-            "plus_monthly": 9999.0,
-            "pro_monthly": 99999.0,
-            "plus_yearly": 99999.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "pt",
@@ -1163,15 +1135,11 @@
     {
         "country_code": "ro",
         "currency": "RON",
-        "price_detail": {
-            "plus_monthly": 9999.0,
-            "pro_monthly": 99999.0,
-            "plus_yearly": 99999.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "rw",
-        "currency": "RWF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1180,7 +1148,7 @@
     },
     {
         "country_code": "kn",
-        "currency": "XCD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1189,7 +1157,7 @@
     },
     {
         "country_code": "lc",
-        "currency": "XCD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1198,7 +1166,7 @@
     },
     {
         "country_code": "vc",
-        "currency": "XCD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1217,7 +1185,7 @@
     },
     {
         "country_code": "st",
-        "currency": "STN",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 200.0,
             "pro_monthly": 200.0,
@@ -1235,7 +1203,7 @@
     },
     {
         "country_code": "sn",
-        "currency": "XOF",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1253,7 +1221,7 @@
     },
     {
         "country_code": "sc",
-        "currency": "SCR",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1262,7 +1230,7 @@
     },
     {
         "country_code": "sl",
-        "currency": "SLL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1271,7 +1239,7 @@
     },
     {
         "country_code": "sg",
-        "currency": "SGD",
+        "currency": "S$",
         "price_detail": {
             "plus_monthly": 29.98,
             "pro_monthly": 299.98,
@@ -1298,7 +1266,7 @@
     },
     {
         "country_code": "sb",
-        "currency": "SBD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1312,7 +1280,7 @@
     },
     {
         "country_code": "za",
-        "currency": "ZAR",
+        "currency": "R",
         "price_detail": {
             "plus_monthly": 399.99,
             "pro_monthly": 3999.99,
@@ -1344,7 +1312,7 @@
     },
     {
         "country_code": "lk",
-        "currency": "LKR",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1353,7 +1321,7 @@
     },
     {
         "country_code": "sr",
-        "currency": "SRD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1363,11 +1331,7 @@
     {
         "country_code": "se",
         "currency": "SEK",
-        "price_detail": {
-            "plus_monthly": 24900.0,
-            "pro_monthly": 2.0,
-            "plus_yearly": 2.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "ch",
@@ -1385,7 +1349,7 @@
     },
     {
         "country_code": "tw",
-        "currency": "TWD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 690.0,
             "pro_monthly": 6990.0,
@@ -1394,7 +1358,7 @@
     },
     {
         "country_code": "tj",
-        "currency": "TJS",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 200.0,
@@ -1404,11 +1368,7 @@
     {
         "country_code": "tz",
         "currency": "TZS",
-        "price_detail": {
-            "plus_monthly": 49900.0,
-            "pro_monthly": 599900.0,
-            "plus_yearly": 599900.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "th",
@@ -1431,7 +1391,7 @@
     },
     {
         "country_code": "to",
-        "currency": "TOP",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1440,7 +1400,7 @@
     },
     {
         "country_code": "tt",
-        "currency": "TTD",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1449,7 +1409,7 @@
     },
     {
         "country_code": "tn",
-        "currency": "TND",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1467,7 +1427,7 @@
     },
     {
         "country_code": "tm",
-        "currency": "TMT",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1481,7 +1441,7 @@
     },
     {
         "country_code": "ug",
-        "currency": "UGX",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
@@ -1491,11 +1451,7 @@
     {
         "country_code": "ua",
         "currency": "UAH",
-        "price_detail": {
-            "plus_monthly": 2299.0,
-            "pro_monthly": 25000.0,
-            "plus_yearly": 25000.0
-        }
+        "price_detail": "Not Found"
     },
     {
         "country_code": "ae",
@@ -1517,7 +1473,7 @@
     },
     {
         "country_code": "us",
-        "currency": "USD",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1526,7 +1482,7 @@
     },
     {
         "country_code": "uy",
-        "currency": "UYU",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1535,7 +1491,7 @@
     },
     {
         "country_code": "uz",
-        "currency": "UZS",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1544,7 +1500,7 @@
     },
     {
         "country_code": "vu",
-        "currency": "VUV",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1558,7 +1514,7 @@
     },
     {
         "country_code": "ye",
-        "currency": "YER",
+        "currency": "$",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 200.0,
@@ -1567,7 +1523,7 @@
     },
     {
         "country_code": "zm",
-        "currency": "ZMW",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 19.99,
             "pro_monthly": 250.0,
@@ -1576,7 +1532,7 @@
     },
     {
         "country_code": "zw",
-        "currency": "ZWL",
+        "currency": "USD",
         "price_detail": {
             "plus_monthly": 22.99,
             "pro_monthly": 250.0,
